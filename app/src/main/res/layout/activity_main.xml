@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:background="@drawable/whiteblur"
+    tools:ignore="ExtraText">
+
+    <!-- Existing components -->
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="1dp"
+        android:src="@drawable/logo"
+        tools:ignore="ContentDescription,RtlHardcoded" />
+
+    <EditText
+        android:id="@+id/inputText"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="130dp"
+        android:hint="Enter text to translate"
+        tools:ignore="Autofill,HardcodedText,TextFields" />
+
+    <Spinner
+        android:id="@+id/languageSpinner"
+        android:layout_width="360dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="190dp" />
+
+    <Button
+        android:id="@+id/translateButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:backgroundTint="@color/black"
+        android:text="Translate"
+
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/outputText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="340dp"
+        android:text="Translation will appear here"
+        tools:ignore="HardcodedText" />
+
+    <!-- New QR Scanner Button -->
+    <Button
+        android:id="@+id/scanButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="500dp"
+        android:text="Scan QR Code"
+        android:backgroundTint="@color/black"
+        tools:ignore="HardcodedText" />
+
+    <!-- Scanned Text -->
+    <TextView
+        android:id="@+id/scannedText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="570dp"
+        android:text="Scanned QR Code Content"
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:textStyle="italic"
+        android:padding="10dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:textIsSelectable="true"
+        tools:ignore="HardcodedText" />  <!-- Enable text selection -->
+        tools:ignore="HardcodedText" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="K.P"
+        android:layout_marginTop="780dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="350dp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText,RtlHardcoded" />
+
+
+</RelativeLayout>

@@ -1,0 +1,363 @@
+{
+    "good morning": {
+        "fr": "bonjour",
+        "mr": "शुभेच्छा",
+        "de": "guten Morgen",
+        "ja": "おはようございます"
+    },
+    "hello": {
+        "fr": "bonjour",
+        "mr": "नमस्कार",
+        "de": "hallo",
+        "ja": "こんにちは"
+    },
+    "thank you": {
+        "fr": "merci",
+        "mr": "धन्यवाद",
+        "de": "danke",
+        "ja": "ありがとう"
+    },
+    "goodbye": {
+        "fr": "au revoir",
+        "mr": "निरोप",
+        "de": "auf wiedersehen",
+        "ja": "さようなら"
+    },
+    "please": {
+        "fr": "s'il vous plaît",
+        "mr": "कृपया",
+        "de": "bitte",
+        "ja": "お願いします"
+    },
+    "yes": {
+        "fr": "oui",
+        "mr": "होय",
+        "de": "ja",
+        "ja": "はい"
+    },
+    "no": {
+        "fr": "non",
+        "mr": "नाही",
+        "de": "nein",
+        "ja": "いいえ"
+    },
+    "where is the hotel nearby": {
+        "fr": "où est l'hôtel à proximité",
+        "mr": "जवळचा हॉटेल कुठे आहे",
+        "de": "wo ist das nächste Hotel",
+        "ja": "近くのホテルはどこですか"
+    },
+    "where is the place for stay": {
+        "fr": "où est l'endroit pour rester",
+        "mr": "राहण्यासाठी जागा कुठे आहे",
+        "de": "wo ist der Ort zum Übernachten",
+        "ja": "宿泊施設はどこですか"
+    },
+    "where is the hospital": {
+        "fr": "où est l'hôpital",
+        "mr": "रुग्णालय कुठे आहे",
+        "de": "wo ist das Krankenhaus",
+        "ja": "病院はどこですか"
+    },
+    "where is the train station": {
+        "fr": "où est la gare",
+        "mr": "रेल्वे स्टेशन कुठे आहे",
+        "de": "wo ist der Bahnhof",
+        "ja": "駅はどこですか"
+    },
+    "where is the bus stop": {
+        "fr": "où est l'arrêt de bus",
+        "mr": "बस थांबा कुठे आहे",
+        "de": "wo ist die Bushaltestelle",
+        "ja": "バス停はどこですか"
+    },
+    "i need a taxi": {
+        "fr": "j'ai besoin d'un taxi",
+        "mr": "मला टॅक्सी हवी आहे",
+        "de": "ich brauche ein Taxi",
+        "ja": "タクシーが必要です"
+    },
+    "how much does it cost": {
+        "fr": "combien ça coûte",
+        "mr": "किंमत किती आहे",
+        "de": "wie viel kostet es",
+        "ja": "いくらですか"
+    },
+    "can you help me": {
+        "fr": "pouvez-vous m'aider",
+        "mr": "तुम्ही मला मदत करू शकता का",
+        "de": "können Sie mir helfen",
+        "ja": "手伝ってくれますか"
+    },
+    "i am lost": {
+        "fr": "je suis perdu",
+        "mr": "मी हरवले आहे",
+        "de": "ich habe mich verlaufen",
+        "ja": "道に迷いました"
+    },
+    "how are you": {
+        "fr": "comment ça va",
+        "mr": "तुम्ही कसे आहात",
+        "de": "wie geht's",
+        "ja": "元気ですか"
+    },
+    "what is your name": {
+        "fr": "comment vous appelez-vous",
+        "mr": "तुमचे नाव काय आहे",
+        "de": "wie heißen Sie",
+        "ja": "お名前は何ですか"
+    },
+    "i am fine": {
+        "fr": "je vais bien",
+        "mr": "मी ठीक आहे",
+        "de": "mir geht's gut",
+        "ja": "元気です"
+    },
+    "where can i find food": {
+        "fr": "où puis-je trouver de la nourriture",
+        "mr": "मला जेवण कुठे मिळेल",
+        "de": "wo finde ich Essen",
+        "ja": "食べ物はどこで見つかりますか"
+    },
+    "is there a supermarket nearby": {
+        "fr": "y a-t-il un supermarché à proximité",
+        "mr": "जवळपास सुपरमार्केट आहे का",
+        "de": "gibt es einen Supermarkt in der Nähe",
+        "ja": "近くにスーパーマーケットはありますか"
+    },
+    "do you speak english": {
+        "fr": "parlez-vous anglais",
+        "mr": "आपण इंग्रजी बोलता का",
+        "de": "sprechen Sie Englisch",
+        "ja": "英語を話せますか"
+    },
+    "i need a doctor": {
+        "fr": "j'ai besoin d'un médecin",
+        "mr": "मला डॉक्टरची गरज आहे",
+        "de": "ich brauche einen Arzt",
+        "ja": "医者が必要です"
+    },
+    "where is the pharmacy": {
+        "fr": "où est la pharmacie",
+        "mr": "औषधालय कुठे आहे",
+        "de": "wo ist die Apotheke",
+        "ja": "薬局はどこですか"
+    },
+    "where is the police station": {
+        "fr": "où est le poste de police",
+        "mr": "पोलीस स्टेशन कुठे आहे",
+        "de": "wo ist die Polizeistation",
+        "ja": "警察署はどこですか"
+    },
+    "i need water": {
+        "fr": "j'ai besoin d'eau",
+        "mr": "मला पाणी हवे आहे",
+        "de": "ich brauche Wasser",
+        "ja": "水が必要です"
+    },
+    "can you show me the map": {
+        "fr": "pouvez-vous me montrer la carte",
+        "mr": "तुम्ही मला नकाशा दाखवू शकता का",
+        "de": "können Sie mir die Karte zeigen",
+        "ja": "地図を見せてもらえますか"
+    },
+    "what time is it": {
+        "fr": "quelle heure est-il",
+        "mr": "सध्या किती वाजले आहेत",
+        "de": "wie spät ist es",
+        "ja": "今何時ですか"
+    },
+    "where is the nearest atm": {
+        "fr": "où est le distributeur automatique le plus proche",
+        "mr": "जवळचा एटीएम कुठे आहे",
+        "de": "wo ist der nächste Geldautomat",
+        "ja": "最寄りのATMはどこですか"
+    },
+    "i am hungry": {
+        "fr": "j'ai faim",
+        "mr": "माझं भुकेलं आहे",
+        "de": "ich habe Hunger",
+        "ja": "お腹が空いています"
+    },
+    "can you recommend a restaurant": {
+        "fr": "pouvez-vous recommander un restaurant",
+        "mr": "तुम्ही एखादं रेस्टॉरंट सुचवू शकता का",
+        "de": "können Sie ein Restaurant empfehlen",
+        "ja": "レストランをおすすめできますか"
+    },
+    "is it safe": {
+        "fr": "est-ce sûr",
+        "mr": "हे सुरक्षित आहे का",
+        "de": "ist es sicher",
+        "ja": "安全ですか"
+    },
+    "how far is it": {
+        "fr": "combien de temps ça prend",
+        "mr": "हे किती दूर आहे",
+        "de": "wie weit ist es",
+        "ja": "それはどれくらい遠いですか"
+    },
+    "can i have the bill": {
+        "fr": "puis-je avoir l'addition",
+        "mr": "मला बिल मिळू शकते का",
+        "de": "kann ich die Rechnung haben",
+        "ja": "お会計をお願いします"
+    },
+    "is there a hospital nearby": {
+        "fr": "y a-t-il un hôpital à proximité",
+        "mr": "जवळपास रुग्णालय आहे का",
+        "de": "gibt es ein Krankenhaus in der Nähe",
+        "ja": "近くに病院はありますか"
+    },
+    "i feel sick": {
+        "fr": "je me sens malade",
+        "mr": "माझं वाईट वाटत आहे",
+        "de": "mir ist schlecht",
+        "ja": "気分が悪いです"
+    },
+    "can you speak slowly": {
+        "fr": "pouvez-vous parler lentement",
+        "mr": "तुम्ही हळू बोलू शकता का",
+        "de": "können Sie langsam sprechen",
+        "ja": "ゆっくり話してもらえますか"
+    },
+    "i don’t understand": {
+        "fr": "je ne comprends pas",
+        "mr": "मला समजत नाही",
+        "de": "ich verstehe nicht",
+        "ja": "わかりません"
+    },
+    "i need a room": {
+        "fr": "j'ai besoin d'une chambre",
+        "mr": "मला एक खोली हवी आहे",
+        "de": "ich brauche ein Zimmer",
+        "ja": "部屋が必要です"
+    },
+    "can you give me directions": {
+        "fr": "pouvez-vous me donner des directions",
+        "mr": "तुम्ही मला दिशा देऊ शकता का",
+        "de": "können Sie mir den Weg zeigen",
+        "ja": "道案内をしてくれますか"
+    },
+    "where is the nearest bus station": {
+        "fr": "où est la station de bus la plus proche",
+        "mr": "जवळचा बस स्थानक कुठे आहे",
+        "de": "wo ist die nächste Bushaltestelle",
+        "ja": "最寄りのバス停はどこですか"
+    },
+    "how long does it take": {
+        "fr": "combien de temps cela prend",
+        "mr": "हे किती वेळ घेतो",
+        "de": "wie lange dauert es",
+        "ja": "どれくらい時間がかかりますか"
+    },
+    "pranav": {
+        "fr": "Pranav",
+        "mr": "प्रणव",
+        "de": "Pranav",
+        "ja": "プラナヴ"
+    },
+    "ajay": {
+        "fr": "Ajay",
+        "mr": "अजय",
+        "de": "Ajay",
+        "ja": "アジャイ"
+    },
+    "ravi": {
+        "fr": "Ravi",
+        "mr": "रवि",
+        "de": "Ravi",
+        "ja": "ラヴィ"
+    },
+    "neha": {
+        "fr": "Neha",
+        "mr": "नेहा",
+        "de": "Neha",
+        "ja": "ネハ"
+    },
+    "anita": {
+        "fr": "Anita",
+        "mr": "अनिता",
+        "de": "Anita",
+        "ja": "アニタ"
+    },
+    "akshay": {
+        "fr": "Akshay",
+        "mr": "अक्षय",
+        "de": "Akshay",
+        "ja": "アクシャイ"
+    },
+    "sakshi": {
+        "fr": "Sakshi",
+        "mr": "साक्षी",
+        "de": "Sakshi",
+        "ja": "サクシー"
+    },
+    "ajitha": {
+        "fr": "Ajitha",
+        "mr": "अजीथ",
+        "de": "Ajitha",
+        "ja": "アジサ"
+    },
+    "nidhi": {
+        "fr": "Nidhi",
+        "mr": "निधी",
+        "de": "Nidhi",
+        "ja": "ニディ"
+    },
+    "vikas": {
+        "fr": "Vikas",
+        "mr": "विकास",
+        "de": "Vikas",
+        "ja": "ヴィカス"
+
+    },
+    "krishna": {
+        "fr": "Krishna",
+        "mr": "कृष्ण",
+        "de": "Krishna",
+        "ja": "クリシュナ"
+    },
+    "ganesh": {
+        "fr": "Ganesh",
+        "mr": "गणेश",
+        "de": "Ganesh",
+        "ja": "ガネーシャ"
+    },
+    "shiv": {
+        "fr": "Shiva",
+        "mr": "शिव",
+        "de": "Shiva",
+        "ja": "シヴァ"
+    },
+    "radha": {
+        "fr": "Radha",
+        "mr": "राधा",
+        "de": "Radha",
+        "ja": "ラーダ"
+    },
+    "sita": {
+        "fr": "Sita",
+        "mr": "सीता",
+        "de": "Sita",
+        "ja": "シーター"
+    },
+    "lakshmi": {
+        "fr": "Lakshmi",
+        "mr": "लक्ष्मी",
+        "de": "Lakshmi",
+        "ja": "ラクシュミ"
+    },
+    "parvati": {
+        "fr": "Parvati",
+        "mr": "पार्वती",
+        "de": "Parvati",
+        "ja": "パールヴァティ"
+    },
+    "hanuman": {
+        "fr": "Hanuman",
+        "mr": "हनुमान",
+        "de": "Hanuman",
+        "ja": "ハヌマーン"
+    }
+}

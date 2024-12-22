@@ -1,0 +1,146 @@
+{
+    "hello": {
+        "fr": "bonjour",
+        "mr": "नमस्कार",
+        "de": "hallo",
+        "ja": "こんにちは"
+    },
+    "thank you": {
+        "fr": "merci",
+        "mr": "धन्यवाद",
+        "de": "danke",
+        "ja": "ありがとう"
+    },
+    "goodbye": {
+        "fr": "au revoir",
+        "mr": "निरोप",
+        "de": "auf wiedersehen",
+        "ja": "さようなら"
+    },
+    "please": {
+        "fr": "s'il vous plaît",
+        "mr": "कृपया",
+        "de": "bitte",
+        "ja": "お願いします"
+    },
+    "yes": {
+        "fr": "oui",
+        "mr": "होय",
+        "de": "ja",
+        "ja": "はい"
+    },
+    "no": {
+        "fr": "non",
+        "mr": "नाही",
+        "de": "nein",
+        "ja": "いいえ"
+    },
+    "where is the hotel nearby": {
+        "fr": "où est l'hôtel à proximité",
+        "mr": "जवळचा हॉटेल कुठे आहे",
+        "de": "wo ist das nächste Hotel",
+        "ja": "近くのホテルはどこですか"
+    },
+    "where is the place for stay": {
+        "fr": "où est l'endroit pour rester",
+        "mr": "राहण्यासाठी जागा कुठे आहे",
+        "de": "wo ist der Ort zum Übernachten",
+        "ja": "宿泊施設はどこですか"
+    },
+    "where is the hospital": {
+        "fr": "où est l'hôpital",
+        "mr": "रुग्णालय कुठे आहे",
+        "de": "wo ist das Krankenhaus",
+        "ja": "病院はどこですか"
+    },
+    "where is the train station": {
+        "fr": "où est la gare",
+        "mr": "रेल्वे स्टेशन कुठे आहे",
+        "de": "wo ist der Bahnhof",
+        "ja": "駅はどこですか"
+    },
+    "where is the bus stop": {
+        "fr": "où est l'arrêt de bus",
+        "mr": "बस थांबा कुठे आहे",
+        "de": "wo ist die Bushaltestelle",
+        "ja": "バス停はどこですか"
+    },
+    "i need a taxi": {
+        "fr": "j'ai besoin d'un taxi",
+        "mr": "मला टॅक्सी हवी आहे",
+        "de": "ich brauche ein Taxi",
+        "ja": "タクシーが必要です"
+    },
+    "how much does it cost": {
+        "fr": "combien ça coûte",
+        "mr": "किंमत किती आहे",
+        "de": "wie viel kostet es",
+        "ja": "いくらですか"
+    },
+    "can you help me": {
+        "fr": "pouvez-vous m'aider",
+        "mr": "तुम्ही मला मदत करू शकता का",
+        "de": "können Sie mir helfen",
+        "ja": "手伝ってくれますか"
+    },
+    "i am lost": {
+        "fr": "je suis perdu",
+        "mr": "मी हरवले आहे",
+        "de": "ich habe mich verlaufen",
+        "ja": "道に迷いました"
+    },
+    "where can i find food": {
+        "fr": "où puis-je trouver de la nourriture",
+        "mr": "मला जेवण कुठे मिळेल",
+        "de": "wo finde ich Essen",
+        "ja": "食べ物はどこで見つかりますか"
+    },
+    "is there a supermarket nearby": {
+        "fr": "y a-t-il un supermarché à proximité",
+        "mr": "जवळपास सुपरमार्केट आहे का",
+        "de": "gibt es einen Supermarkt in der Nähe",
+        "ja": "近くにスーパーマーケットはありますか"
+    },
+    "what time is it": {
+        "fr": "quelle heure est-il",
+        "mr": "सध्या किती वाजले आहेत",
+        "de": "wie spät ist es",
+        "ja": "今何時ですか"
+    },
+    "do you speak english": {
+        "fr": "parlez-vous anglais",
+        "mr": "आपण इंग्रजी बोलता का",
+        "de": "sprechen Sie Englisch",
+        "ja": "英語を話せますか"
+    },
+    "i need a doctor": {
+        "fr": "j'ai besoin d'un médecin",
+        "mr": "मला डॉक्टरची गरज आहे",
+        "de": "ich brauche einen Arzt",
+        "ja": "医者が必要です"
+    },
+    "where is the pharmacy": {
+        "fr": "où est la pharmacie",
+        "mr": "औषधालय कुठे आहे",
+        "de": "wo ist die Apotheke",
+        "ja": "薬局はどこですか"
+    },
+    "where is the police station": {
+        "fr": "où est le poste de police",
+        "mr": "पोलीस स्टेशन कुठे आहे",
+        "de": "wo ist die Polizeistation",
+        "ja": "警察署はどこですか"
+    },
+    "i need water": {
+        "fr": "j'ai besoin d'eau",
+        "mr": "मला पाणी हवे आहे",
+        "de": "ich brauche Wasser",
+        "ja": "水が必要です"
+    },
+    "can you show me the map": {
+        "fr": "pouvez-vous me montrer la carte",
+        "mr": "तुम्ही मला नकाशा दाखवू शकता का",
+        "de": "können Sie mir die Karte zeigen",
+        "ja": "地図を見せてもらえますか"
+    }
+}
